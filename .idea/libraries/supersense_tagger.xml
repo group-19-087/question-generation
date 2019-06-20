@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="supersense-tagger">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/supersense-tagger.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/supersense-tagger.jar!/javadoc" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
